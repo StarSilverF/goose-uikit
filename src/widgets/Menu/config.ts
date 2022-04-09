@@ -126,7 +126,7 @@ export const socials = [
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
       // },
-      {
+     /*  {
         label: "中文",
         href: "https://t.me/goosefinancechinese",
       },
@@ -161,14 +161,10 @@ export const socials = [
       {
         label: "Français",
         href: "https://t.me/goosefinancefrench",
-      },
+      }, */
       {
         label: "Announcements",
         href: "https://t.me/goosefinanceann",
-      },
-      {
-        label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
       },
     ],
   },
@@ -176,11 +172,6 @@ export const socials = [
     label: "Twitter",
     icon: "TwitterIcon",
     href: "https://twitter.com/goosedefi",
-  },
-  {
-    label: "Reddit",
-    icon: "RedditIcon",
-    href: "https://www.reddit.com/r/GooseFinanceofficial",
   },
 ];
 
