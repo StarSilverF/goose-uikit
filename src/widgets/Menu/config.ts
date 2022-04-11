@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/witcherswap",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -162,16 +162,16 @@ export const socials = [
         label: "Français",
         href: "https://t.me/goosefinancefrench",
       }, */
-      {
+      /* {
         label: "Announcements",
         href: "https://t.me/goosefinanceann",
-      },
+      }, */
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://twitter.com/WitcherSwap",
   },
 ];
 
